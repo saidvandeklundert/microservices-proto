@@ -1,4 +1,4 @@
-module github.com/huseyinbabal/microservices-proto/golang/payment
+module github.com/saidvandeklundert/microservices-proto/golang/payment
 
 go 1.17
 

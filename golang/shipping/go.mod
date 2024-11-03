@@ -1,4 +1,4 @@
-module github.com/huseyinbabal/microservices-proto/golang/shipping
+module github.com/saidvandeklundert/microservices-proto/golang/shipping
 
 go 1.17
 

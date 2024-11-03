@@ -1,4 +1,4 @@
-module github.com/huseyinbabal/microservices-proto/golang
+module github.com/saidvandeklundert/microservices-proto/golang
 
 go 1.17
 
